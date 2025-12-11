@@ -13,3 +13,5 @@ Manual installation:
 - Download the .zip from the [release section](https://github.com/razab87/rasBodyMod/releases/tag/v1.5.8).
 - Extract the .zip file.
 - From the extracted file, copy the folder "rasBodyMod" from rasBodyMod-[version]/Contents/mods/ to your Zomboid/mods folder.
+
+**Note:** The mod contains some nudity and is therefore only intended for a mature audience. However, the mod does not contain any sexually explicit content and I'll never add this type of content.
