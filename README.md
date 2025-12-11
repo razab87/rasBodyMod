@@ -3,7 +3,7 @@ The mod "ra's Body Mod" for the video game Project Zomboid. The Releases section
 
 First release on steam: 9 Jul, 2022
 
-Tech: The mod contains a lot of lua code, xml files, textures (png) and 3d models (fbx). Main modifications concern the game's clothing system and the user interface.
+Tech: The mod contains lua code, xml files, textures (png) and 3d models (fbx). Main modifications concern the game's clothing system and the user interface.
 
 The mod is available for the stable build 41 and for the unstable build 42 version of the game.
 
