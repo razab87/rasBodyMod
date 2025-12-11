@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+        <m_MaleModel></m_MaleModel>
+        <m_FemaleModel></m_FemaleModel>
+        <m_GUID>229l0710-z6ns-t74r-5914-fo9oqs59q5q0</m_GUID>
+        <m_Static>true</m_Static>
+        <m_AllowRandomHue>false</m_AllowRandomHue>
+        <m_AllowRandomTint>false</m_AllowRandomTint>
+        <m_AttachBone></m_AttachBone>
+        <m_BaseTextures>rasbodymodtextures\stubble\stubblehead_dark_f</m_BaseTextures>
+</clothingItem>

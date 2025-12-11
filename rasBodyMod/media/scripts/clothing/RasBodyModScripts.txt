@@ -1,0 +1,979 @@
+module RasBodyMod { 
+
+ imports { Base } 
+
+
+
+
+/***************************************** FEMALE SKINS ******************************************/
+ 
+ 
+item SkinFemale01
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasSkinFemale01,
+     BodyLocation = RasSkin,
+     Weight = 0,
+     CanHaveHoles = false,
+     BloodLocation = Trousers;ShirtLongSleeves;Head;Shoes;Hands,
+}
+ 
+item SkinFemale02
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasSkinFemale02,
+     BodyLocation = RasSkin,
+     Weight = 0,
+     CanHaveHoles = false,
+     BloodLocation = Trousers;ShirtLongSleeves;Head;Shoes;Hands,
+}
+ 
+item SkinFemale03
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasSkinFemale03,
+     BodyLocation = RasSkin,
+     Weight = 0,
+     CanHaveHoles = false,
+     BloodLocation = Trousers;ShirtLongSleeves;Head;Shoes;Hands,
+}
+ 
+item SkinFemale04
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasSkinFemale04,
+     BodyLocation = RasSkin,
+     Weight = 0,
+     CanHaveHoles = false,
+     BloodLocation = Trousers;ShirtLongSleeves;Head;Shoes;Hands,
+}
+ 
+item SkinFemale05
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasSkinFemale05,
+     BodyLocation = RasSkin,
+     Weight = 0,
+     CanHaveHoles = false,
+     BloodLocation = Trousers;ShirtLongSleeves;Head;Shoes;Hands,
+}
+ 
+
+ 
+ 
+/***************************************** MALE SKINS ******************************************/
+ 
+ 
+item SkinMale01
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasSkinMale01,
+     BodyLocation = RasSkin,
+     Weight = 0,
+     CanHaveHoles = false,
+     BloodLocation = Trousers;ShirtLongSleeves;Head;Shoes;Hands,
+}
+ 
+item SkinMale02
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasSkinMale02,
+     BodyLocation = RasSkin,
+     Weight = 0,
+     CanHaveHoles = false,
+     BloodLocation = Trousers;ShirtLongSleeves;Head;Shoes;Hands,
+}
+ 
+item SkinMale03
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasSkinMale03,
+     BodyLocation = RasSkin,
+     Weight = 0,
+     CanHaveHoles = false,
+     BloodLocation = Trousers;ShirtLongSleeves;Head;Shoes;Hands,
+}
+ 
+item SkinMale04
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasSkinMale04,
+     BodyLocation = RasSkin,
+     Weight = 0,
+     CanHaveHoles = false,
+     BloodLocation = Trousers;ShirtLongSleeves;Head;Shoes;Hands,
+}
+ 
+item SkinMale05
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasSkinMale05,
+     BodyLocation = RasSkin,
+     Weight = 0,
+     CanHaveHoles = false,
+     BloodLocation = Trousers;ShirtLongSleeves;Head;Shoes;Hands,
+}
+ 
+
+/***************************************** FEMALE ARMPIT HAIR ******************************************/
+ 
+ 
+item FemaleArmpit
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasFemaleArmpit,
+     BodyLocation = RasArmpitHair,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item FemaleArmpit_Int
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasFemaleArmpit_Int,
+     BodyLocation = RasArmpitHair,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item FemaleArmpit_Black2
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasFemaleArmpit_Black2,
+     BodyLocation = RasArmpitHair,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+
+/***************************************** MALE ARMPIT HAIR ******************************************/
+ 
+ 
+item MaleArmpit
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasMaleArmpit,
+     BodyLocation = RasArmpitHair,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item MaleArmpit_Int
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasMaleArmpit_Int,
+     BodyLocation = RasArmpitHair,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+
+/***************************************** MALE CHEST HAIR ******************************************/
+ 
+ 
+item MaleChest
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasMaleChest,
+     BodyLocation = RasChestHair,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item MaleChest_Int
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasMaleChest_Int,
+     BodyLocation = RasChestHair,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+
+/***************************************** FEMALE LEG HAIR ******************************************/
+ 
+ 
+item FemaleLeg
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasFemaleLeg,
+     BodyLocation = RasLegHair,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item FemaleLeg_Int
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasFemaleLeg_Int,
+     BodyLocation = RasLegHair,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item FemaleLeg_Black2
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasFemaleLeg_Black2,
+     BodyLocation = RasLegHair,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+
+/***************************************** MALE LEG HAIR ******************************************/
+ 
+ 
+item MaleLeg
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasMaleLeg,
+     BodyLocation = RasLegHair,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item MaleLeg_Int
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasMaleLeg_Int,
+     BodyLocation = RasLegHair,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+
+/***************************************** FEMALE PUBIC NATURAL ******************************************/
+ 
+ 
+item FemalePubicNatural
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasFemalePubicNatural,
+     BodyLocation = RasPubicHair,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item FemalePubicNatural_Int
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasFemalePubicNatural_Int,
+     BodyLocation = RasPubicHair,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item FemalePubicNatural_Int_Black2
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasFemalePubicNatural_Int_Black2,
+     BodyLocation = RasPubicHair,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item FemalePubicNatural_Black2
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasFemalePubicNatural_Black2,
+     BodyLocation = RasPubicHair,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+
+/***************************************** MALE PUBIC NATURAL ******************************************/
+ 
+ 
+item MalePubicNatural
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasMalePubicNatural,
+     BodyLocation = RasPubicHair,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item MalePubicNatural_Int
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasMalePubicNatural_Int,
+     BodyLocation = RasPubicHair,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+
+/***************************************** FEMALE PUBIC STRIP ******************************************/
+ 
+ 
+item FemalePubicStrip
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasFemalePubicStrip,
+     BodyLocation = RasPubicHair,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item FemalePubicStrip_Black2
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasFemalePubicStrip_Black2,
+     BodyLocation = RasPubicHair,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+
+/***************************************** MALE PUBIC STRIP ******************************************/
+ 
+ 
+item MalePubicStrip
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasMalePubicStrip,
+     BodyLocation = RasPubicHair,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item MalePubicStrip_Int
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasMalePubicStrip_Int,
+     BodyLocation = RasPubicHair,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+
+/***************************************** FEMALE PUBIC TRIMMED ******************************************/
+ 
+ 
+item FemalePubicTrimmed
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasFemalePubicTrimmed,
+     BodyLocation = RasPubicHair,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item FemalePubicTrimmed_Black2
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasFemalePubicTrimmed_Black2,
+     BodyLocation = RasPubicHair,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+
+ 
+ 
+/***************************************** PENIS MODELS ******************************************/
+ 
+ 
+item PenisDefault01
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisDefault01,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisDefault02
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisDefault02,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisDefault03
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisDefault03,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisDefault04
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisDefault04,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisDefault05
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisDefault05,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisSitting01
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisSitting01,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisSitting02
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisSitting02,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisSitting03
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisSitting03,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisSitting04
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisSitting04,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisSitting05
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisSitting05,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisCover01
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisCover01,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisCover02
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisCover02,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisCover03
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisCover03,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisCover04
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisCover04,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisCover05
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisCover05,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisCoverWalk01
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisCoverWalk01,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisCoverWalk02
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisCoverWalk02,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisCoverWalk03
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisCoverWalk03,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisCoverWalk04
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisCoverWalk04,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisCoverWalk05
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisCoverWalk05,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisTurnAround01
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisTurnAround01,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisTurnAround02
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisTurnAround02,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisTurnAround03
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisTurnAround03,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisTurnAround04
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisTurnAround04,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisTurnAround05
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisTurnAround05,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisDefault01_Hair
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisDefault01_Hair,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisDefault02_Hair
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisDefault02_Hair,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisDefault03_Hair
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisDefault03_Hair,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisDefault04_Hair
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisDefault04_Hair,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisDefault05_Hair
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisDefault05_Hair,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisTurnAround01_Hair
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisTurnAround01_Hair,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisTurnAround02_Hair
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisTurnAround02_Hair,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisTurnAround03_Hair
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisTurnAround03_Hair,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisTurnAround04_Hair
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisTurnAround04_Hair,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item PenisTurnAround05_Hair
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasPenisTurnAround05_Hair,
+     BodyLocation = RasMalePrivatePart,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+
+ 
+ 
+/***************************************** STUBBLE ITEMS ******************************************/
+ 
+ 
+item StubbleBeard_Dark
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasStubbleBeard_Dark,
+     BodyLocation = RasBeardStubble,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item StubbleBeard_Light
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasStubbleBeard_Light,
+     BodyLocation = RasBeardStubble,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item StubbleHead_Dark_F
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasStubbleHead_Dark_F,
+     BodyLocation = RasHeadStubble,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item StubbleHead_Dark_M
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasStubbleHead_Dark_M,
+     BodyLocation = RasHeadStubble,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item StubbleHead_Light_F
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasStubbleHead_Light_F,
+     BodyLocation = RasHeadStubble,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+item StubbleHead_Light_M
+{
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     ClothingItem = RasStubbleHead_Light_M,
+     BodyLocation = RasHeadStubble,
+     Weight = 0,
+     CanHaveHoles = false,
+}
+ 
+
+ 
+ 
+/***************************************** VEST GLITCH FIX ITEMS ******************************************/
+ 
+ 
+item Vest_BulletArmy_RasBM
+{
+     BiteDefense = 30,
+     DamagedSound = ArmourBreakKevlar,
+     DiscomfortModifier = 0.25,
+     DisplayName = Bulletproof Vest - Military,
+     Type = Clothing,
+     WindResistance = 0.45,
+     ScratchDefense = 55,
+     WorldStaticModel = BulletVest_Ground,
+     BulletDefense = 100,
+     DisplayCategory = ProtectiveGear,
+     Weight = 5,
+     ResearchableRecipes = MakeForearmBulletproofVestArmor;MakeShinBulletproofVestArmor;MakeThighBulletproofVestArmor,
+     Insulation = 0.75,
+     BodyLocation = TorsoExtraVest,
+     ClothingItem = RasVest_BulletArmy,
+     Icon = BulletVestCamo,
+     BloodLocation = ShirtNoSleeves,
+}
+ 
+item Vest_BulletCivilian_RasBM
+{
+     BiteDefense = 30,
+     DamagedSound = ArmourBreakKevlar,
+     DiscomfortModifier = 0.25,
+     DisplayName = Bulletproof Vest - Civilian,
+     Type = Clothing,
+     WindResistance = 0.25,
+     ScratchDefense = 55,
+     WorldStaticModel = BulletVest_Ground,
+     BulletDefense = 100,
+     DisplayCategory = ProtectiveGear,
+     Weight = 5,
+     ResearchableRecipes = MakeForearmBulletproofVestArmor;MakeShinBulletproofVestArmor;MakeThighBulletproofVestArmor,
+     Insulation = 0.6,
+     BodyLocation = TorsoExtraVest,
+     ClothingItem = RasVest_BulletCivilian,
+     Icon = BulletVestWhite,
+     BloodLocation = ShirtNoSleeves,
+}
+ 
+item Vest_BulletPolice_RasBM
+{
+     BiteDefense = 30,
+     DamagedSound = ArmourBreakKevlar,
+     DiscomfortModifier = 0.25,
+     DisplayName = Bulletproof Vest - Police,
+     Type = Clothing,
+     WindResistance = 0.30,
+     ScratchDefense = 55,
+     WorldStaticModel = BulletVest_Ground,
+     BulletDefense = 100,
+     DisplayCategory = ProtectiveGear,
+     Weight = 5,
+     ResearchableRecipes = MakeForearmBulletproofVestArmor;MakeShinBulletproofVestArmor;MakeThighBulletproofVestArmor,
+     Insulation = 0.65,
+     BodyLocation = TorsoExtraVest,
+     ClothingItem = RasVest_BulletPolice,
+     Icon = BulletVestPolice,
+     BloodLocation = ShirtNoSleeves,
+}
+ 
+item Vest_HighViz_RasBM
+{
+     WorldStaticModel = HuntingVest_Ground,
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     Insulation = 0.1,
+     DisplayName = Vest - High Visibility,
+     ClothingItem = RasVest_HighViz,
+     BodyLocation = TorsoExtraVest,
+     WindResistance = 0.05,
+     Icon = ConstructionVest,
+     ScratchDefense = 10,
+     BloodLocation = ShirtNoSleeves,
+}
+ 
+item Vest_Hunting_Grey_RasBM
+{
+     WorldStaticModel = HuntingVest_Ground,
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     Insulation = 0.90,
+     DisplayName = Hunting Vest - Grey,
+     ClothingItem = RasVest_Hunting_Grey,
+     BodyLocation = TorsoExtraVest,
+     WindResistance = 0.80,
+     Icon = Huntingvest_Grey,
+     ScratchDefense = 20,
+     BloodLocation = ShirtNoSleeves,
+}
+ 
+item Vest_Hunting_Orange_RasBM
+{
+     WorldStaticModel = HuntingVest_Ground,
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     Insulation = 0.75,
+     DisplayName = Hunting Vest - Orange,
+     ClothingItem = RasVest_Hunting_Orange,
+     BodyLocation = TorsoExtraVest,
+     WindResistance = 0.75,
+     Icon = Huntingvest_Orange,
+     ScratchDefense = 20,
+     BloodLocation = ShirtNoSleeves,
+}
+ 
+item Vest_Hunting_Camo_RasBM
+{
+     WorldStaticModel = HuntingVest_Ground,
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     Insulation = 0.8,
+     DisplayName = Hunting Vest - Camo,
+     ClothingItem = RasVest_Hunting_Camo,
+     BodyLocation = TorsoExtraVest,
+     WindResistance = 0.65,
+     Icon = Huntingvest_Camo,
+     ScratchDefense = 20,
+     BloodLocation = ShirtNoSleeves,
+}
+ 
+item Vest_Hunting_CamoGreen_RasBM
+{
+     WorldStaticModel = HuntingVest_Ground,
+     DisplayCategory = Clothing,
+     Type = Clothing,
+     Insulation = 0.70,
+     DisplayName = Hunting Vest - Green,
+     ClothingItem = RasVest_Hunting_CamoGreen,
+     BodyLocation = TorsoExtraVest,
+     WindResistance = 0.80,
+     Icon = Huntingvest_Camo,
+     ScratchDefense = 20,
+     BloodLocation = ShirtNoSleeves,
+}
+
+
+ 
+
+}
+
+
+

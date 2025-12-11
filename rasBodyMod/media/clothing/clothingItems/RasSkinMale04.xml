@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+        <m_MaleModel></m_MaleModel>
+        <m_FemaleModel></m_FemaleModel>
+        <m_GUID>kqr6g81z-b2gq-6iyy-jtz5-15jk51ie5d31</m_GUID>
+        <m_Static>true</m_Static>
+        <m_AllowRandomHue>false</m_AllowRandomHue>
+        <m_AllowRandomTint>false</m_AllowRandomTint>
+        <m_AttachBone></m_AttachBone>
+        <m_BaseTextures>rasbodymodtextures\skins\skinmale04</m_BaseTextures>
+</clothingItem>
