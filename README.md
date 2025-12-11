@@ -1,5 +1,5 @@
 # rasBodyMod
-The mod "ra's Body Mod" for the video game Project Zomboid. The Releases section contains previous versions. See the mod's workshop page on steam for info about the mod's content: https://steamcommunity.com/sharedfiles/filedetails/?id=2832911317.
+The mod "ra's Body Mod" for the video game Project Zomboid. See the mod's workshop page on steam for info about the mod's content: https://steamcommunity.com/sharedfiles/filedetails/?id=2832911317.
 
 First release on steam: 9 Jul, 2022
 
