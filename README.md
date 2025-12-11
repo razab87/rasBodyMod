@@ -1,5 +1,5 @@
 # rasBodyMod
-The mod "ra's Body Mod" for the video game Project Zomboid. See the mod's workshop page on steam for info about the mod's content: https://steamcommunity.com/sharedfiles/filedetails/?id=2832911317.
+The mod "ra's Body Mod" for the video game Project Zomboid. See the mod's [workshop page on steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2832911317) for info about the mod's content.
 
 First release on steam: 9 Jul, 2022
 
@@ -10,7 +10,7 @@ The mod is available for the stable build 41 and for the unstable build 42 versi
 When playing the game on steam, you can install the mod by simply subscribing to it on the workshop.
 
 Manual installation:
-1. Download the .zip from the [release section](https://github.com/razab87/rasBodyMod/releases/tag/v1.5.8).
+1. Download the .zip file from the [release section](https://github.com/razab87/rasBodyMod/releases/tag/v1.5.8).
 2. Extract the .zip file.
 3. From the extracted file, copy the folder "rasBodyMod" from rasBodyMod-[version]/Contents/mods/ to your Zomboid/mods folder.
 
