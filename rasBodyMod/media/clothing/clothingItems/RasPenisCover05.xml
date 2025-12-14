@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+        <m_MaleModel>skinned\rasmodels\peniscover</m_MaleModel>
+        <m_FemaleModel>skinned\rasmodels\peniscover</m_FemaleModel>
+        <m_GUID>cd4oevno-qa8p-54le-x42c-m805xyqpzoiv</m_GUID>
+        <m_Static>false</m_Static>
+        <m_AllowRandomHue>false</m_AllowRandomHue>
+        <m_AllowRandomTint>false</m_AllowRandomTint>
+        <m_AttachBone></m_AttachBone>
+        <textureChoices>rasbodymodtextures\maleprivate\penis05</textureChoices>
+</clothingItem>

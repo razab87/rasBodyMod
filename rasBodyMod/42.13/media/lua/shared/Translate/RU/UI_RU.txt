@@ -1,0 +1,42 @@
+
+
+UI_RU = {
+
+
+UI_ClothingType_UnderwearBottom = "Трусы",
+UI_ClothingType_UnderwearTop = "Лифчик",
+UI_ClothingType_RasPubicHair = "Лобок",
+UI_ClothingType_RasArmpitHair = "Подмышки",
+UI_ClothingType_RasLegHair = "Ноги",
+UI_ClothingType_RasChestHair = "Грудь",
+
+
+UI_rasBodyMod_RemoveAll = "Убрать все",
+UI_rasBodyMod_BodyHair = "Волосы на теле",
+
+
+UI_rasBodyMod_Natural = "Естественные",
+UI_rasBodyMod_Strip = "Полоска",
+UI_rasBodyMod_Trimmed = "Треугольник",
+
+
+UI_rasBodyMod_NoBodyHair = "Нет волос на теле, подожди пока они вырастут.",
+UI_rasBodyMod_None = "Нет",
+UI_rasBodyMod_Some = "Местами",
+UI_rasBodyMod_Full = "Полно",
+
+UI_rasBodyMod_RequireRazor = "Требуется бритва",
+
+UI_rasBodyMod_ArmpitShave = "Подмышки: побрить",
+UI_rasBodyMod_ChestShave = "Грудь: побрить",
+UI_rasBodyMod_PubicShaveComp = "Лобок: сбрить полностю",
+UI_rasBodyMod_PubicShaveStrip = "Лобок: выбрить полоску",
+UI_rasBodyMod_PubicTrim = "Лобок: выбрить треугольник",
+UI_rasBodyMod_LegsShave = "Ноги: побрить",
+
+UI_rasBodyMod_UseScissors = "Использовать ножницы",
+UI_rasBodyMod_UseRazor = "Использовать бритву",
+UI_rasBodyMod_ShaveStubble = "Сбрить щетину",
+
+
+}

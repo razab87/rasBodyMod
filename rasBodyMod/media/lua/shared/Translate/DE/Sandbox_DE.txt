@@ -1,0 +1,6 @@
+Sandbox_EN = {
+	Sandbox_RasBodyMod = "ra's Body Mod",
+
+	Sandbox_RasBodyMod_PerformanceMode = "Performance Mode",
+	Sandbox_RasBodyMod_PerformanceMode_tooltip = "Probiert diese Option, falls ihr den Eindruck haben, dass ra's Body Mod Performance Probleme verursacht oder ihr auf einem schwachen PC spielen. Die Option verschlechtert die Grafik für nackte, umherlaufende männliche Charaktere ein wenig."	
+}
