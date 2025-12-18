@@ -1,6 +1,0 @@
-Sandbox_TR = {
-Sandbox_RasBodyMod = "ra's Body Mod",
-
-Sandbox_RasBodyMod_PerformanceMode = "Performans Modu",
-Sandbox_RasBodyMod_PerformanceMode_tooltip = "Ra's Body Mod'unun performans sorunlarına neden olduğu izlenimine kapılırsanız veya zayıf donanımla oynarken bu seçeneği deneyin. Erkek karakterler çıplak olarak hareket ederken görseller biraz düşürülecektir."
-}
