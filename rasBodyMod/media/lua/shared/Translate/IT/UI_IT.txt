@@ -1,0 +1,32 @@
+UI_IT = {
+
+
+   UI_ClothingType_UnderwearBottom = "Intimo"
+   UI_ClothingType_UnderwearTop = "Reggiseno"
+
+   UI_ClothingType_RasPubicHair = "Peli pubici",
+   UI_ClothingType_RasArmpitHair = "Ascelle",
+   UI_ClothingType_RasLegHair = "Gambe",
+   UI_ClothingType_RasChestHair = "Petto",
+   
+   UI_rasBodyMod_RemoveAll = "Rimuovi tutto",
+   UI_rasBodyMod_BodyHair = "Peli del corpo",
+         
+   UI_rasBodyMod_Natural = "Naturali",
+   UI_rasBodyMod_Strip = "Striscia",
+   UI_rasBodyMod_Trimmed = "Rifiniti",
+         
+   UI_rasBodyMod_NoBodyHair = "Niente peli sul corpo, aspetta che crescano.",
+   UI_rasBodyMod_None = "Nessuno",
+   UI_rasBodyMod_Some = "Alcuni",
+   UI_rasBodyMod_Full = "Pieno",
+
+   UI_rasBodyMod_Shave = "Depila",
+   UI_rasBodyMod_PubicShaveComp = "Rasa completamente",
+   UI_rasBodyMod_PubicShaveStrip = "Depila a striscia",
+   UI_rasBodyMod_PubicTrim = "Rifinisci",
+
+
+   UI_rasBodyMod_RequireRazor = "Richiede un rasoio",
+   
+}
