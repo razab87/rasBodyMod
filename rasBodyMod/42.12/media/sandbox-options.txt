@@ -1,0 +1,11 @@
+VERSION = 1,
+
+
+
+option RasBodyMod.PerformanceMode
+{
+	type = boolean,
+	default = false,
+	page = RasBodyMod,
+	translation = RasBodyMod_PerformanceMode,
+}

@@ -1,0 +1,29 @@
+UI_VI = {
+
+    UI_ClothingType_UnderwearBottom = "Quần lót",
+    UI_ClothingType_UnderwearTop = "Áo lót",
+    UI_ClothingType_RasPubicHair = "Lông mu",
+    UI_ClothingType_RasArmpitHair = "Lông nách",
+    UI_ClothingType_RasLegHair = "Lông chân",
+    UI_ClothingType_RasChestHair = "Lông ngực",
+    
+
+    UI_rasBodyMod_RemoveAll = "Cạo sạch",    
+    UI_rasBodyMod_BodyHair = "Lông",
+    
+    UI_rasBodyMod_Natural = "Tự nhiên",
+    UI_rasBodyMod_Strip = "Cạo sơ",
+    UI_rasBodyMod_Trimmed = "Tỉa",
+   
+    UI_rasBodyMod_NoBodyHair = "Không có lông, chờ nó mọc lại.",
+    UI_rasBodyMod_None = "Không",
+    UI_rasBodyMod_Some = "Ít",
+    UI_rasBodyMod_Full = "Rậm rạp",
+
+    UI_rasBodyMod_Shave = "Cạo",
+    UI_rasBodyMod_PubicShaveComp = "Cạo sạch",
+    UI_rasBodyMod_PubicShaveStrip = "Cạo thành hình dọc",
+    UI_rasBodyMod_PubicTrim = "Tỉa",
+
+    UI_rasBodyMod_RequireRazor = "Cần có Dao Cạo",    
+}

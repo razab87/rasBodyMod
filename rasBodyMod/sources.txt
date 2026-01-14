@@ -1,0 +1,4 @@
+
+
+The following textures are assets or edited versions of assets taken from the base game and are therefore subject to The Indie Stone's propery rights: all textures found in media/textures/RasBodyModTextures/Skins and in 
+media/textures/RasBodyModTextures/Stubble, the textures FemaleLeg, FemaleLeg_Black2, FemaleLeg_Int, MaleArmpit, MaleArmpit_Int, MaleChest, MaleChest_Int, MaleLeg, MaleLeg_Int

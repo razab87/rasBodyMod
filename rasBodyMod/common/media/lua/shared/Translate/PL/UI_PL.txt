@@ -1,0 +1,35 @@
+
+UI_PL = {
+
+    UI_ClothingType_UnderwearBottom = "Bielizna",
+    UI_ClothingType_UnderwearTop = "Biustonosz",
+    UI_ClothingType_RasPubicHair = "Włosy łonowe",
+    UI_ClothingType_RasArmpitHair = "Pachy",
+    UI_ClothingType_RasLegHair = "Nogi",
+    UI_ClothingType_RasChestHair = "Klatka piersiowa",
+    
+    
+    UI_rasBodyMod_RemoveAll = "Usuń wszystko",         
+    UI_rasBodyMod_BodyHair = "Owłosienie ciała",
+    
+    
+    UI_rasBodyMod_Natural = "Naturalne",
+    UI_rasBodyMod_Strip = "Pasek",
+    UI_rasBodyMod_Trimmed = "Przycięte",
+    
+    
+    UI_rasBodyMod_NoBodyHair = "Brak owłosienia na ciele. Poczekaj, aż odrośnie.",
+    UI_rasBodyMod_None = "Brak",
+    UI_rasBodyMod_Some = "Częściowe",
+    UI_rasBodyMod_Full = "Pełne",
+    
+    UI_rasBodyMod_RequireRazor = "Wymaga maszynki do golenia",
+         
+    UI_rasBodyMod_Shave = "Ogól",
+    UI_rasBodyMod_PubicShaveComp = "Ogól",
+    UI_rasBodyMod_PubicShaveStrip = "Przytnij na pasek",
+    UI_rasBodyMod_PubicTrim = "Przytnij",
+             
+    
+    
+}
