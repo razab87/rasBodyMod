@@ -1,0 +1,9 @@
+name=ra's Body Mod
+id=rasBodyMod
+poster=rasBodyModPoster.png
+icon=rasIcon.png
+description=This mod introduces realistic character textures featuring female and male nudity. To increase anatomical realism, male characters come with a new extra 3d-object attached between their legs. The mod also introduces more customisation options for your character's body hair. <LINE> <LINE> 18+ only
+author=razab
+modversion=1.6
+versionMin=42.12.0
+incompatible=\SpnCharCustom,\ReorganizedInfoScreen,\BiggerCharacterAvatarExtraLarge,\BiggerCharacterAvatarLarge,\BiggerCharacterAvatarMedium

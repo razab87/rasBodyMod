@@ -1,0 +1,34 @@
+
+
+UI_ES = {
+
+    UI_ClothingType_UnderwearBottom = "Calzoncillos",
+    UI_ClothingType_UnderwearTop = "Sujetadores",
+    UI_ClothingType_RasPubicHair = "Vello Púbico",
+    UI_ClothingType_RasArmpitHair = "Axilas",
+    UI_ClothingType_RasLegHair = "Piernas",
+    UI_ClothingType_RasChestHair = "Pecho",
+    
+    
+    UI_rasBodyMod_RemoveAll = "Remover todo",         
+    UI_rasBodyMod_BodyHair = "Vello corporal",
+    
+    
+    UI_rasBodyMod_Natural = "Natural",
+    UI_rasBodyMod_Strip = "Brasileño",
+    UI_rasBodyMod_Trimmed = "Recortado",
+    
+    
+    UI_rasBodyMod_NoBodyHair = "Sin vello corporal, espera a que crezca.",
+    UI_rasBodyMod_None = "Ninguno",
+    UI_rasBodyMod_Some = "Algo",
+    UI_rasBodyMod_Full = "Completo",
+    
+    UI_rasBodyMod_RequireRazor = "Requiere una rasuradora.",
+         
+    UI_rasBodyMod_Shave = "Afeitar",
+    UI_rasBodyMod_PubicShaveComp = "Depilar",
+    UI_rasBodyMod_PubicShaveStrip = "Brasileño",
+    UI_rasBodyMod_PubicTrim = "Recortar",
+
+}

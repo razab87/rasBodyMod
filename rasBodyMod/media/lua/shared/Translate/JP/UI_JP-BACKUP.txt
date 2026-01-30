@@ -1,0 +1,36 @@
+
+UI_JP = {
+
+        UI_ClothingType_UnderwearBottom = "下着",
+        UI_ClothingType_UnderwearTop = "ブラ",
+        UI_ClothingType_RasPubicHair = "陰毛",
+        UI_ClothingType_RasArmpitHair = "脇毛",
+        UI_ClothingType_RasLegHair = "すね毛",
+        UI_ClothingType_RasChestHair = "胸毛",
+
+
+        UI_rasBodyMod_RemoveAll = "すべて削除",
+        UI_rasBodyMod_BodyHair = "体毛",
+
+
+        UI_rasBodyMod_Natural = "自然",
+        UI_rasBodyMod_Strip = "剃る",
+        UI_rasBodyMod_Trimmed = "整える",
+
+
+        UI_rasBodyMod_NoBodyHair = "体毛がない、生えるのを待つ。",
+        UI_rasBodyMod_None = "なし",
+        UI_rasBodyMod_Some = "一部",
+        UI_rasBodyMod_Full = "全部",
+
+        UI_rasBodyMod_RequireRazor = "カミソリを必要とする",
+
+        UI_rasBodyMod_ArmpitShave = "脇の下を剃る",
+        UI_rasBodyMod_ChestShave = "胸を剃る",
+        UI_rasBodyMod_PubicShaveComp = "陰毛を完全に剃る",
+        UI_rasBodyMod_PubicShaveStrip = "陰毛を剃る",
+        UI_rasBodyMod_PubicTrim = "陰毛を整える",
+        UI_rasBodyMod_LegsShave = "すね毛を剃る",
+
+   
+}
