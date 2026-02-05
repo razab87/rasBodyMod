@@ -1,0 +1,38 @@
+ UI_TR = {
+
+    UI_ClothingType_UnderwearBottom = "Ýç çamaþýrý",
+    UI_ClothingType_UnderwearTop = "Sütyen",
+    UI_ClothingType_RasPubicHair = "Kasýk Kýlý",
+    UI_ClothingType_RasArmpitHair = "Koltuk Altý",
+    UI_ClothingType_RasLegHair = "Bacaklar",
+    UI_ClothingType_RasChestHair = "Göðüs",
+    
+    
+    UI_rasBodyMod_RemoveAll = "Tümünü Kaldýr",         
+    UI_rasBodyMod_BodyHair = "Vücut Kýllarý",
+    
+    
+    UI_rasBodyMod_Natural = "Doðal",
+    UI_rasBodyMod_Strip = "Þerit",
+    UI_rasBodyMod_Trimmed = "Kýrpýlmýþ",
+    
+    
+    UI_rasBodyMod_NoBodyHair = "Vücut kýllarý yok, Büyümesini bekle.",
+    UI_rasBodyMod_None = "Yok",
+    UI_rasBodyMod_Some = "Bir Kýsmý",
+    UI_rasBodyMod_Full = "Hepsi",
+    
+    UI_rasBodyMod_RequireRazor = "Jilet Gerekli",
+         
+    UI_rasBodyMod_ArmpitShave = "Koltuk Altý: Týraþ Et",
+    UI_rasBodyMod_ChestShave = "Göðüs: Týraþ Et",
+    UI_rasBodyMod_PubicShaveComp = "Kasýk Kýlý: Tamamen Týraþ Et",
+    UI_rasBodyMod_PubicShaveStrip = "Kasýk Kýlý: Þerit Olarak Týraþ Et",
+    UI_rasBodyMod_PubicTrim = "Kasýk Kýlý: Kýrpýlmýþ Olarak Týraþ Et",
+    UI_rasBodyMod_LegsShave = "Bacaklar: Týraþ Et",
+         
+    UI_rasBodyMod_UseScissors = "Makas Kullan",
+    UI_rasBodyMod_UseRazor = "Jilet Kullan",
+    UI_rasBodyMod_ShaveStubble = "Kirli Sakalý Týraþ Et", 
+    
+}

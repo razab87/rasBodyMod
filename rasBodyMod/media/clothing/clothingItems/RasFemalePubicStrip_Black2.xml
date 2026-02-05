@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+        <m_MaleModel></m_MaleModel>
+        <m_FemaleModel></m_FemaleModel>
+        <m_GUID>dn9y3g2w-2y8z-27m1-j01v-1siijy0d589w</m_GUID>
+        <m_Static>true</m_Static>
+        <m_AllowRandomHue>false</m_AllowRandomHue>
+        <m_AllowRandomTint>false</m_AllowRandomTint>
+        <m_AttachBone></m_AttachBone>
+        <m_BaseTextures>rasbodymodtextures\bodyhairfemale\femalepubicstrip_black2</m_BaseTextures>
+</clothingItem>
